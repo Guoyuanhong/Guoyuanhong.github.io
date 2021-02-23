@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /posts/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+
+Sitemap: https://www.imgyh.com/sitemap.xml
+Sitemap: https://www.imgyh.com/baidusitemap.xml
